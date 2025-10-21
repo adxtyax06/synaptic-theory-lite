@@ -5,38 +5,32 @@ aliases:
 ---
 Links: [[Neuroanatomy]], [[Neurophysiology]], [[Neurology]]
 
-# Intentions
+# Learning Objectives
 ---
-What are the different **parts** of /cerebellum? Mention their **<span style="color:#ff4b4b;"><strong>blood supply.</strong></span>**
+##### After this course, you will be able to-
+- Describe the Gross Anatomy and Microcircuitry of the cerebellum 
+- Divide the Cerebellum into different parts from functional and evolutionary perspectives.
+- Describe the Connections of the cerebellum with other structures of the CNS (Central Nervous System).
+- Describe the Functions of the cerebellum and the electrical circuits and mechanisms behind them.
+- Describe in details the role of the cerebellum in co-ordination and error correction of movement.
+- Describe different cerebellar dysfunctions and corresponding clinical features. (Should I include that?)
 
-What are the **functional divisions** of cerebellum? With a diagram show the to and fro **connections** of the cerebellum. Enumerate the **functions** of the cerebellum and the **clinical manifestations following its lesion.**[2+3+3+4] [2013]
-
-**Explain how it helps in smooth and coordinated movement.** Mention the abnormalities associated with damage to the cerebellum?[3+3] [2019]
-
-Write the **principal functions of each division**. Draw a diagram of the **internal circuit of cerebellum**. [2016 supple.]
-
-What is cerebellar ataxia? [1]
+##### Coming soon
+- Cerebellum and Timing Mechanisms
+- Forward Models in the Cerebellum
 # Contents
 ---
+ *"Cerebellum"* is latin for little brain. It is a structure located posterior to the brainstem (specifically the pons). 
+ It is connected to the pons via Supeior, Middle and Inferior Cerebellar Peduncles.
 
-*"Cerebellum"* - Latin for little brain. 
-# Functions
-1. Coordination, Error Correction in Movement & Motor learning.
-2. Regulates time, range, rate, force & direction of movement. (Mechanical & vectorial analysis)
-3. Regulation of muscle tone & deep tendon reflexes.
-4. Maintenance of Posture & Equilibrium by Flocculonodular Node <- Vestigial
-5. Movement of the eye (Flocculonodular Node)
 # Relevant Anatomy
-## Anatomical Divisions
 
-![[Anatomical Parts of Cerebellum - Coronal Sections.png]]
+![[image.png]]
+![[image-1.png]]
 
-![[Anatomical lobes of Cerebellum - Saggital Section.png]]
+
+![[image-3.png]]
 ## Functional & Evolutionary Divisions
-![[Functional divisions of cerebellum.png]]
-
-## Blood Supply
-![[Blood Supply of Cerebellum.png]]
 
 | Functional Divisions    | Anatomical Parts                  | Projects to                    | Function                                                                   |
 | ----------------------- | --------------------------------- | ------------------------------ | -------------------------------------------------------------------------- |
@@ -55,27 +49,35 @@ The cerebellum receives & sends input/output to & from the brainstem. It is conn
 
 ![[Connections of Cerebellum via SCP, MCP & ICP.png]]
 
-![[Afferent Connections of Cerebellum.png]]
+![[image-4.png]]
 
 ![[Efferent Connections of Cerebellum.png]]
 
 ![[Connections of Cerebellum Flowchart.png]]
+
+## Functions
+1. Coordination, Error Correction in Movement & Motor learning.
+2. Regulates time, range, rate, force & direction of movement. (Mechanical & vectorial analysis)
+3. Regulation of muscle tone & deep tendon reflexes.
+4. Maintenance of Posture & Equilibrium by Flocculonodular Node <- Vestigial
+5. Movement of the eye (Flocculonodular Node)
 ## Comparator of Servomechanism Function of Cerebellum
 
-![[Comparator of Servomechanism Function of Cerebellum.png]]
+![[image-8.png]]
 
 - **Copy of Motor Command (Efference Copy):**
-    - When the motor cortex sends signals down the corticospinal and corticobulbar tracts, a **collateral copy of this motor instruction** is sent to the cerebellum via the **corticopontocerebellar pathway** (mossy fiber input through the middle cerebellar peduncle).        
+	The motor cortex sends signals down the corticospinal and corticobulbar tracts <span style="color:orange;">(1a)</span> 
+	A **collateral copy of this motor instruction** is sent to the cerebellum <span style="color:orange;">(1b)</span> via the **corticopontocerebellar pathway** (mossy fiber input through the middle cerebellar peduncle).        
 - **Sensory Feedback:**
-    - During movement, **proprioceptive inputs** from muscles, tendons, and joints ascend via spinocerebellar tracts and cuneocerebellar tracts.
-    - The **inferior olive** sends **climbing fiber input** (olivocerebellar tract) that encodes timing and error signals.
+    - During movement, **proprioceptive inputs** from muscles, tendons, and joints ascend via spinocerebellar tracts and cuneocerebellar tracts <span style="color:blue;">(2a)</span>.
+    - The **inferior olive** sends **climbing fiber input** (olivocerebellar tract) that encodes timing and error signals. <span style="color:blue;">(2b)</span>
 - **Comparison (Comparator Role):**
-    - The cerebellum compares the **intended movement (motor command copy)** with the **actual performance (sensory feedback)**.
+    - The cerebellum compares the **intended movement <span style="color:orange;">(1b)</span>** with the **actual performance <span style="color:blue;">(2b)</span>**. <span style="color:#ff4b4b;"><strong>(3 = 1b + 2b)</strong></span>  
     - This is the essence of its role as a **comparator of motor performance**.
 - **Error Detection and Correction:**
     - Any mismatch generates an **error signal**, processed through cerebellar cortical circuits and deep nuclei.
-    - Corrective signals are sent to motor areas via **cerebellorubrothalamocortical** and **cerebellovestibular/reticular pathways**.
-    - Motor cortex integrates this and updates the next motor command → ensuring smooth, coordinated movement.
+    - Corrective signals are sent to motor areas via **cerebellorubrothalamocortical** and **cerebellovestibular/reticular pathways**. <span style="color:#40c057;">(5)</span>
+    - Motor cortex integrates this and updates the next motor command <span style="color:orange;"><strong>(1a of next cycle)</strong></span> → ensuring smooth, coordinated movement.
 - **Cyclic Repitition:**
 	- When the new motor plan passes down the UMNs, a new collateral copy reaches the cerebellum & the cycle repeats.
 # Internal Circuitry
@@ -199,3 +201,7 @@ Clinical Features:
 
 [Marrow 8 Anatomy Notes](https://www.marrow.com/)
 
+Additional YT Videos for further learning: 
+1. https://www.youtube.com/watch?v=17mxfO9nklQ
+
+---
