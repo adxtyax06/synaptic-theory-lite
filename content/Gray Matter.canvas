@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0e8889fdce001a1b","x":-120,"y":-60,"width":250,"height":60,"type":"text","text":"I have no idea honestly"},
+		{"id":"3f3edbf0d5363b54","x":-167,"y":100,"width":344,"height":114,"type":"text","text":"This has to be more physics than just anatomy (unlike [[White Matter.canvas|White Matter]]) that's for sure"}
+	],
+	"edges":[
+		{"id":"7d45b380c1cd4331","fromNode":"0e8889fdce001a1b","fromSide":"bottom","toNode":"3f3edbf0d5363b54","toSide":"top"}
+	]
+}

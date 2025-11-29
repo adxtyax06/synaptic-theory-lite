@@ -1,10 +1,8 @@
 ---
 tags:
-  - "#complete"
-aliases:
+Notes: Diagrams have been edited. Edit the text and add a summary
 ---
 Links: [[Neuroanatomy]], [[Neurophysiology]], [[Neurology]]
-
 # Learning Objectives
 ---
 ##### After this course, you will be able to-
@@ -13,7 +11,7 @@ Links: [[Neuroanatomy]], [[Neurophysiology]], [[Neurology]]
 - Describe the Connections of the cerebellum with other structures of the CNS (Central Nervous System).
 - Describe the Functions of the cerebellum and the electrical circuits and mechanisms behind them.
 - Describe in details the role of the cerebellum in co-ordination and error correction of movement.
-- Describe different cerebellar dysfunctions and corresponding clinical features. (Should I include that?)
+- Describe different cerebellar dysfunctions and corresponding clinical features. 
 
 ##### Coming soon
 - Cerebellum and Timing Mechanisms
@@ -22,28 +20,20 @@ Links: [[Neuroanatomy]], [[Neurophysiology]], [[Neurology]]
 ---
  *"Cerebellum"* is latin for little brain. It is a structure located posterior to the brainstem (specifically the pons). 
  It is connected to the pons via Supeior, Middle and Inferior Cerebellar Peduncles.
-
 # Relevant Anatomy
-
-![[image.png]]
-![[image-1.png]]
-
+![[image-12.png|1313x684]]
 
 ![[image-3.png]]
 ## Functional & Evolutionary Divisions
 
-| Functional Divisions    | Anatomical Parts                  | Projects to                    | Function                                                                   |
-| ----------------------- | --------------------------------- | ------------------------------ | -------------------------------------------------------------------------- |
-| **Spinocerebellum**     | Vermis & Intermed. zone of Cortex | Medial & Lateral Desc. Tracts  | Motor Execution                                                            |
-| **Cerebrocerebellum**   | Lateral Part of Cortex            | Motor & Premotor Cortices      | Motor Planning                                                             |
-| **Vestibulocerebellum** | Flocculonodular Lobe              | Vestibular Nuclei of Brainstem | Balance & Eye movement (More dominant in lower animals, reduced in humans) |
+![[image-1.png]]
 
-| Evolutionary Divisions | Evolutionary History | Also called           | Contents                          | Function (approx.)                          | Nuclei                         |
-| ---------------------- | -------------------- | --------------------- | --------------------------------- | ------------------------------------------- | ------------------------------ |
-| **Arechecerebellum**   | Oldest               | Vestibular cerebellum | Lingula & Flocculonodular Lobe    | Truncal stability                           | Fastigial                      |
-| **Paleocerebellum**    | Intermed.            | Spinal cerebellum     | Ant. Lobe, Pyramid, Uvula         | Appendicular stability                      | Fastigial, Emboliform, Globose |
-| **Neocerebellum**      | Newest               | Cerebral cerebellum   | Post. lobe except Pyramid & uvula | Smooth execution of movement with precision | Dentate                        |
-Evolutionary divisions are less relevant.
+| Functional Divisions                           | Evolutionary History | Anatomical Parts                  | Projects to                    | Function                                                                   | Nuclei                         | Function (approx.)                          |
+| ---------------------------------------------- | -------------------- | --------------------------------- | ------------------------------ | -------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------- |
+| **Cerebrocerebellum** / **Neocerebellum**      | Newest               | Lateral Part of Cortex            | Motor & Premotor Cortices      | Motor Planning                                                             | Dentate                        | Smooth execution of movement with precision |
+| **Spinocerebellum** / **Paleocerebellum**      | Intermediate         | Vermis & Intermed. zone of Cortex | Medial & Lateral Desc. Tracts  | Motor Execution                                                            | Fastigial, Emboliform, Globose | Appendicular stability                      |
+| **Vestibulocerebellum** / **Arechecerebellum** | Oldest               | Flocculonodular Lobe              | Vestibular Nuclei of Brainstem | Balance & Eye movement (More dominant in lower animals, reduced in humans) | Fastigial                      | Truncal stability (Balance)                 |
+
 ## Connections
 The cerebellum receives & sends input/output to & from the brainstem. It is connected to the former via - Superior, Middle & Inferior Cerebellar Peduncles.
 
@@ -117,7 +107,7 @@ Afferent fibres to the cerebellum are of 2 types - **Climbing Fibres** & **Mossy
 - <span style="color:#e0de71;"><strong>Feed-Forward Inhibition in case of execution of correct movement</strong></span> **(Unique to Cerebellum)**
     - Mossy fibers → granule cells → parallel fibers also excite **basket and stellate cells**.
     - Basket & stellate cells inhibit Purkinje cells **before** parallel fibers can excite them.
-    - This <span style="color:#40c057;">early inhibition prevents excessive Purkinje firing</span> → avoids undue suppression of nuclear activity → ensures **smooth, uninterrupted movement flow**.
+    - This 
     - This phenomenon is termed **feed-forward inhibition**, unique to the cerebellar cortex.
 
 ## Cerebellar Dysfunction
@@ -185,9 +175,9 @@ Clinical Features:
 
 
 ---
-## **References**
+## **Further Reading & References**
 
-[Principles of Neural Science, Sixth Edition by Eric R. Kandel](https://www.amazon.in/Principles-Neural-Science-MEDICAL-DENISTRY/dp/1259642232?crid=2X4KFRI3B7KZJ&dib=eyJ2IjoiMSJ9.2qRgfRxA82vlLYotFY391n7ZK7yJL9ZaaO216odKuJEfXsNy4Ks7L4LIJ0FJRJnX-7o5WywbrzRq0OhXvR-Ojfo-6wgDl1piIueofSZ5h-ank1TDxeubG7aSNnvDrPljBJxSfuZhyPXsGtBz3e1YFRj8R7_Zv8OegU5jaVZsCd8qeRW_gPtmvtYhZ0xdoMguXGmd3ehGlyVXCYwOfuXiJ32KRjLrJmuUKxneIbXXRJE.xZM6uLuCWKfKMGUGPqzjetLES0NlJyrtNBKlsNPFRzA&dib_tag=se&keywords=kandel+neuroscience&qid=1760858908&sprefix=kandel+neuro%2Caps%2C471&sr=8-1)
+1. [Principles of Neural Science, Sixth Edition by Eric R. Kandel](https://www.amazon.in/Principles-Neural-Science-MEDICAL-DENISTRY/dp/1259642232?crid=2X4KFRI3B7KZJ&dib=eyJ2IjoiMSJ9.2qRgfRxA82vlLYotFY391n7ZK7yJL9ZaaO216odKuJEfXsNy4Ks7L4LIJ0FJRJnX-7o5WywbrzRq0OhXvR-Ojfo-6wgDl1piIueofSZ5h-ank1TDxeubG7aSNnvDrPljBJxSfuZhyPXsGtBz3e1YFRj8R7_Zv8OegU5jaVZsCd8qeRW_gPtmvtYhZ0xdoMguXGmd3ehGlyVXCYwOfuXiJ32KRjLrJmuUKxneIbXXRJE.xZM6uLuCWKfKMGUGPqzjetLES0NlJyrtNBKlsNPFRzA&dib_tag=se&keywords=kandel+neuroscience&qid=1760858908&sprefix=kandel+neuro%2Caps%2C471&sr=8-1)
 
 [Snell's Clinical Neuroanatomy, South Asian ed](https://www.amazon.in/Snells-Clinical-Neuroanatomy-South-Asia/dp/9389859379?crid=VMWQ15CDW5IE&dib=eyJ2IjoiMSJ9.paUUS5c-5DoaYiufAdfmBgTtRwcS5bojROuU4fzxagiM3w2qs7nonwmyEM2SBrJ8jSEf2fIVvqxPd_PVGXZVcA7uKeI-iD_6mrX2kV2uzrItUhPriV8UONbZUgS8S8yibkGatJ4kHbLlQdOJAW6kgRJXPXFJwtDGwGS0JiUcshQCRG32ETfcTHVSM64vPnxFGCMmRX2ICfqVdxQEJ3meDhCH_Dxk4bFRyF46LfFmLU4.r4pDQDiMFA-sfaNZp7GniDNRPmYU8Scj0Fz2G-97euA&dib_tag=se&keywords=neuroanatomy&qid=1760858566&sprefix=neuroana%2Caps%2C468&sr=8-6)
 
