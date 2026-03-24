@@ -1,6 +1,8 @@
 ---
 tags:
-Notes: Diagrams have been edited. Edit the text and add a summary
+Links:
+Keywords:
+Notes: Diagrams have been edited. Edit the text and add a summary.
 ---
 Links: [[Neuroanatomy]], [[Neurophysiology]], [[Neurology]]
 # Learning Objectives

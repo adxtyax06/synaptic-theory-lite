@@ -1,8 +1,8 @@
 ---
 tags:
+Links:
+Keywords:
 ---
-Links: 
-
 # Intentions
 ---
 Why am should you read this?
